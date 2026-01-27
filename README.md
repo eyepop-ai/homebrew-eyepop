@@ -1,6 +1,8 @@
 # Homebrew Tap for EyePop CLI
 
-## Installation
+## [experimental]
+
+### Installation
 
 ```bash
 brew tap eyepop-ai/eyepop
