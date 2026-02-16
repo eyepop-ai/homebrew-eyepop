@@ -7,11 +7,11 @@ class Eyepop < Formula
   on_macos do
     on_arm do
       url "https://github.com/eyepop-ai/homebrew-eyepop/releases/download/v0.0.4/eyepop-v0.0.4-aarch64-apple-darwin.tar.gz"
-      sha256 "63f7c91a1ff7a1abd0bf1639588354613b15bacd7ad673a11b460a764770a4e4"
+      sha256 "f3d65984a8c4ce19c74c0d41c85dc7ad9c357decdbb91e67d1046278b4c55975"
     end
     on_intel do
       url "https://github.com/eyepop-ai/homebrew-eyepop/releases/download/v0.0.4/eyepop-v0.0.4-x86_64-apple-darwin.tar.gz"
-      sha256 "18f1bebebbb6f9822f416879d174fd29e6e71c735db2713b25d94c6f26984e1f"
+      sha256 "7667c4d9267fcbf149450a34814398cdd5b0ecf0aaeabb7f1398bbbb58faa263"
     end
   end
 
