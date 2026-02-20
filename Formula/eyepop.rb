@@ -1,17 +1,17 @@
 class Eyepop < Formula
   desc "CLI for interacting with the EyePop AI platform"
   homepage "https://eyepop.ai"
-  version "0.0.12"
+  version "0.0.13"
   license "MIT"
 
   on_macos do
     on_arm do
-      url "https://github.com/eyepop-ai/homebrew-eyepop/releases/download/v0.0.12/eyepop-v0.0.12-aarch64-apple-darwin.tar.gz"
-      sha256 "b3025a64343ea422c7030eaa9de7d7c8ffd7e2dcc4d3d0655a00803d928ae537"
+      url "https://github.com/eyepop-ai/homebrew-eyepop/releases/download/v0.0.13/eyepop-v0.0.13-aarch64-apple-darwin.tar.gz"
+      sha256 "b547350cbc202046abbd9f630792017d3f488284c831533224238b3091fdb213"
     end
     on_intel do
-      url "https://github.com/eyepop-ai/homebrew-eyepop/releases/download/v0.0.12/eyepop-v0.0.12-x86_64-apple-darwin.tar.gz"
-      sha256 "3a4c9287d140f2470b5d067b7a2e4502e22aa0c9f83ce7a57c412d18a2cc27f5"
+      url "https://github.com/eyepop-ai/homebrew-eyepop/releases/download/v0.0.13/eyepop-v0.0.13-x86_64-apple-darwin.tar.gz"
+      sha256 "4ed381aa14360c12309b96ba56541ab0fc50e58af6d6686ec6a894650dbfa466"
     end
   end
 
