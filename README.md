@@ -32,6 +32,11 @@ Or with `wget`:
 wget -qO- https://raw.githubusercontent.com/eyepop-ai/homebrew-eyepop/main/install.sh | sh
 ```
 
+Set `EYEPOP_INSTALL_DIR` to choose the install directory, or `EYEPOP_VERSION` to
+pin a release. Re-run the installer to update.
+
+Release archives: https://github.com/eyepop-ai/homebrew-eyepop/releases/latest
+
 ## Documentation
 
 Full CLI documentation: TODO — GitBook docs link
