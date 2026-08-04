@@ -1,4 +1,6 @@
 #!/usr/bin/env sh
+# Generated from eyepop-ai/eyepop-cli - edit it there, not here.
+# Any change made in this repository is overwritten on the next release.
 set -eu
 
 repo="eyepop-ai/homebrew-eyepop"
