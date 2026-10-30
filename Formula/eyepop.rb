@@ -1,28 +1,28 @@
 class Eyepop < Formula
   desc "CLI for interacting with the EyePop AI platform"
   homepage "https://eyepop.ai"
-  version "0.25.1"
+  version "0.25.2"
   license "MIT"
 
   on_macos do
     on_arm do
-      url "https://github.com/eyepop-ai/homebrew-eyepop/releases/download/v0.25.1/eyepop-v0.25.1-aarch64-apple-darwin.tar.gz"
-      sha256 "cb47dd4df0039082cb8a03814d71d08476328331cd320e462376b428f15df67c"
+      url "https://github.com/eyepop-ai/homebrew-eyepop/releases/download/v0.25.2/eyepop-v0.25.2-aarch64-apple-darwin.tar.gz"
+      sha256 "9173cb6e420fc3042338c283a8cb1dc34fa900a8b6b778251358402154f99210"
     end
     on_intel do
-      url "https://github.com/eyepop-ai/homebrew-eyepop/releases/download/v0.25.1/eyepop-v0.25.1-x86_64-apple-darwin.tar.gz"
-      sha256 "d641d2c98376f9b0b9239d56f8c2909a5271384ced2365254b1a387617409685"
+      url "https://github.com/eyepop-ai/homebrew-eyepop/releases/download/v0.25.2/eyepop-v0.25.2-x86_64-apple-darwin.tar.gz"
+      sha256 "040a9a7c26e40a4addd1910b3c9c805a3caa6d7cd693a7796f48740328cf5321"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/eyepop-ai/homebrew-eyepop/releases/download/v0.25.1/eyepop-v0.25.1-aarch64-unknown-linux-gnu.tar.gz"
-      sha256 "c0edc145e797eb7a700b98d266b532c449824249e6960045517cd0f540a4c08e"
+      url "https://github.com/eyepop-ai/homebrew-eyepop/releases/download/v0.25.2/eyepop-v0.25.2-aarch64-unknown-linux-gnu.tar.gz"
+      sha256 "0dd69945323ca2fe887e24f0cdd1af9a24a8edb5f7e050be59d8bfb30dc708c9"
     end
     on_intel do
-      url "https://github.com/eyepop-ai/homebrew-eyepop/releases/download/v0.25.1/eyepop-v0.25.1-x86_64-unknown-linux-gnu.tar.gz"
-      sha256 "9271b5611647d109fe756ca35b0e89ea3482632ccab25378a923632ebd5a7911"
+      url "https://github.com/eyepop-ai/homebrew-eyepop/releases/download/v0.25.2/eyepop-v0.25.2-x86_64-unknown-linux-gnu.tar.gz"
+      sha256 "ed67fc799c95628687e005b97a578d108a2a7bfc2b744d6609fad76c897ca101"
     end
   end
 
